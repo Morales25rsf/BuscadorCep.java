@@ -55,4 +55,4 @@ java BuscadorCep
 
 Digite um CEP válido quando solicitado (ex: 01001000) e veja o endereço ser retornado no terminal!
 
-Desenvolvido com dedicação por [Seu Nome] durante os estudos de Análise e Desenvolvimento de Sistemas.
+Desenvolvido com dedicação por Fernandez durante os estudos de Análise e Desenvolvimento de Sistemas.
